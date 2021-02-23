@@ -1,0 +1,9 @@
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  datacenter: INDIA-KARNATAKA
+  environment: production
+server:
+  port: 8761
